@@ -1,0 +1,52 @@
+.section{
+    display: block;
+    position: fixed;
+    width: 100vw;
+    top: 0px;
+    background-color: white;
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 0% 0% 0% 0%;
+}
+
+.image{
+    vertical-align: middle;
+    display: inline-block;
+    max-width: 100%;
+    border: none;
+  
+}
+
+.nav{
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ gap: 20px;
+ font-size: xx-large;
+ font-weight: 500;
+align-items: center;
+
+}
+
+.p{
+    font-weight: 900;
+    text-align: center;
+    
+}
+
+.mainpage{
+    width: fit-content;
+    margin: 0 auto;
+    margin-top: 75px;
+}
+.about{
+    font-weight: 800;
+    width: fit-content;
+    margin: 0 auto;
+    margin-top: 75px;
+    
+}
+
+.head{
+    text-align: center;
+}

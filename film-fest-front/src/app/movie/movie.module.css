@@ -1,0 +1,43 @@
+.heading{
+    display: flex;
+    flex-direction: nowrap;
+    align-items: center;
+    gap: 20px;
+    
+
+}
+
+.credits{
+    margin-left: 10px;
+}
+
+
+.description{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 40px;
+    width: 50%;
+  
+}
+
+.main{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 70px;
+    width: 70vw;
+    margin: 0 auto;
+}
+
+.Genres{
+    margin-left: 1175px;
+}
+
+.credits{
+    display: flex;
+    flex-direction: nowrap;
+    align-items: center;
+    gap: 150px;
+}
